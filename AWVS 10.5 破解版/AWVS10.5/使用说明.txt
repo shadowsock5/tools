@@ -1,0 +1,2 @@
+1.安装 webvulnscan10.5.exe
+2.运行补丁 Acunetix Web Vulnerability Scanner 10.x Consultant Edition KeyGen.exe
